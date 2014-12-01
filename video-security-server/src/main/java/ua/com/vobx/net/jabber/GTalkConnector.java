@@ -13,7 +13,7 @@ import org.jivesoftware.smack.packet.Presence;
 public class GTalkConnector {
 
 	private String login = "ast1.reports@gmail.com";
-	private String password = "HASp3qw4";
+	private String password = "password";
 	private String receipient = "vyacheslavpryimak@gmail.com";
 
 	private static ConnectionConfiguration connConfig;
